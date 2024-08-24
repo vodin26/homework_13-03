@@ -30,7 +30,7 @@
 
 ### Задание 2
 
-![alt text](https://github.com/username/reponame/blob/branch/path/pic1.png)
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic_1.png)
 
 ### Задание 3
 
