@@ -34,5 +34,6 @@
 
 ### Задание 3
 
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic_2.png)
 
 ### Задание 4
