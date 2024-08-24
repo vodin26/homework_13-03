@@ -38,4 +38,4 @@
 
 ### Задание 4
 
-![alt text](https://disk.yandex.ru/i/uXt8ihqvQ6BEGA)
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic_3.png)
