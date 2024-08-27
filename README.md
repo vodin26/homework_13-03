@@ -2,6 +2,7 @@
 
 ### Задание 1
 
+`![alt text](vodin26/homework_11-02/img/pic1.png)`
 
 ### Задание 2
 
