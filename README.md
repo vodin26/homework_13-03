@@ -12,4 +12,16 @@
 
 ### Задание 3
 
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic4.png)
 
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic5.png)
+
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic6.png)
+
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic7.png)
+
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic8.png)
+
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic9.png)
+
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic10.png)
