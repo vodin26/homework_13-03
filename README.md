@@ -6,6 +6,9 @@
 
 ### Задание 2
 
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic2.png)
+
+![alt text](https://github.com/vodin26/homework_11-02/blob/main/img/pic3.png)
 
 ### Задание 3
 
