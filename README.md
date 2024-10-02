@@ -4,6 +4,6 @@
 
 Скриншот-1 к заданию 1:
 
-![Скриншот-1](https://github.com/netology-code/sys-pattern-homework/blob/main/img/pic_1.png)
+![Скриншот-1](https://github.com/vodin26/homework_12-02/tree/main/img/pic_1.png)
 
 ### Задание 2
