@@ -32,3 +32,15 @@ LIMIT 5;
 ```
 
 ### Задание 4
+
+```mysql
+SELECT 
+    LOWER(CONCAT(first_name, ' ', last_name)) AS имя,
+    last_name,
+    first_name,
+    email,
+    address_id
+FROM customer
+WHERE first_name IN ('Kelly', 'Willie')
+AND active = 1;
+```
