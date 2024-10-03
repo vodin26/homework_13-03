@@ -24,5 +24,11 @@ AND amount > 10.00;
 
 ### Задание 3
 
+```
+SELECT *
+FROM rental
+ORDER BY rental_id DESC
+LIMIT 5;
+```
 
 ### Задание 4
