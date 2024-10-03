@@ -8,7 +8,7 @@ WHERE district REGEXP '^[kK].*a$' AND district NOT LIKE '% %';
 
 ### Задание 2
 
-```
+```mysql
 SELECT 
     rental_id,
     customer_id,
@@ -24,7 +24,7 @@ AND amount > 10.00;
 
 ### Задание 3
 
-```
+```mysql
 SELECT *
 FROM rental
 ORDER BY rental_id DESC
