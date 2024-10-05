@@ -17,7 +17,9 @@ HAVING COUNT(c.customer_id) > 300;
 ### Задание 2
 
 ```mysql
-
+SELECT COUNT(*) AS films_longer_than_average 
+FROM film 
+WHERE length > (SELECT AVG(length) FROM film);
 ```
 
 ### Задание 3
