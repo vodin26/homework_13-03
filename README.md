@@ -33,6 +33,9 @@
 ### Задание 2
 
 
+![Скриншот-1](vodin26/homework_12-06/img/Master_1.png)
+
+![Скриншот-2](vodin26/homework_12-06/img/Slave_1.png)
 
 ### Задание 3
 
