@@ -35,7 +35,7 @@
 
 ![Скриншот-1](https://github.com/vodin26/homework_12-06/blob/main/img/Master_1.png)
 
-![Скриншот-2](https://github.com/vodin26/homework_12-06/blob/main/img/Master_1.png)
+![Скриншот-2](https://github.com/vodin26/homework_12-06/blob/main/img/Slave_1.png)
 
 ### Задание 3
 
