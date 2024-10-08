@@ -32,8 +32,11 @@
 
 ### Задание 2
 
+C Master на Slave идет репликация:
 
 ![Скриншот-1](https://github.com/vodin26/homework_12-06/blob/main/img/Master_1.png)
+
+Со Slave ничего не копируется в Master, хотя если не отключен режим записи на Slave можно записать какое-нибудь значение.
 
 ![Скриншот-2](https://github.com/vodin26/homework_12-06/blob/main/img/Slave_1.png)
 
