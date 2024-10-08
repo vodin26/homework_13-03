@@ -42,4 +42,6 @@ C Master на Slave идет репликация:
 
 ### Задание 3
 
+![Скриншот-1](https://github.com/vodin26/homework_12-06/blob/main/img/Master_1.2.png)
 
+![Скриншот-1](https://github.com/vodin26/homework_12-06/blob/main/img/Master_2.2.png)
