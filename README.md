@@ -50,7 +50,7 @@ C Master на Slave идет репликация:
 
 ![Скриншот-1.2](https://github.com/vodin26/homework_12-06/blob/main/img/Conf_Slave_1.png)
 
-![Скриншот-1.2](https://github.com/vodin26/homework_12-06/blob/main/img/Conf_Slave_2.png)
+![Скриншот-1.2](https://github.com/vodin26/homework_12-06/blob/main/img/Conf_slave_2.png)
 
 ### Задание 3
 
