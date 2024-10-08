@@ -36,9 +36,21 @@ C Master на Slave идет репликация:
 
 ![Скриншот-1](https://github.com/vodin26/homework_12-06/blob/main/img/Master_1.png)
 
+Кофиги Master:
+
+![Скриншот-1.2](https://github.com/vodin26/homework_12-06/blob/main/img/Conf_Master_1.png)
+
+![Скриншот-1.2](https://github.com/vodin26/homework_12-06/blob/main/img/Conf_Master_2.png)
+
 Со Slave ничего не копируется в Master, хотя если не отключен режим записи на Slave можно записать какое-нибудь значение.
 
 ![Скриншот-2](https://github.com/vodin26/homework_12-06/blob/main/img/Slave_1.png)
+
+Конфиги Slave:
+
+![Скриншот-1.2](https://github.com/vodin26/homework_12-06/blob/main/img/Conf_Slave_1.png)
+
+![Скриншот-1.2](https://github.com/vodin26/homework_12-06/blob/main/img/Conf_Slave_2.png)
 
 ### Задание 3
 
