@@ -56,4 +56,14 @@ C Master на Slave идет репликация:
 
 ![Скриншот-1](https://github.com/vodin26/homework_12-06/blob/main/img/Master_1.2.png)
 
-![Скриншот-1](https://github.com/vodin26/homework_12-06/blob/main/img/Master_2.2.png)
+Конфиг Master_1:
+
+![Скриншот-1](https://github.com/vodin26/homework_12-06/blob/main/img/Master_2_1.png)
+
+![Скриншот-1](https://github.com/vodin26/homework_12-06/blob/main/img/Master_2_2.png)
+
+Конфиг Master_2:
+
+![Скриншот-1](https://github.com/vodin26/homework_12-06/blob/main/img/Master_3_1.png)
+
+![Скриншот-1](https://github.com/vodin26/homework_12-06/blob/main/img/Master_3_2.png)
