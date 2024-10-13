@@ -3,6 +3,7 @@
 
 ### Задание 1
 
+```
 Разрешены протоколы: ftp, ssh, telnet, http, smtp Удаленный рабочий стол (vns), БД на PostgreSQL, Apache (Tomcat, Jserv), MySQL, rshd, rsh (удаленная консоль), Samba
 
 ProFTPD 1.3.1 
@@ -15,5 +16,5 @@ Apache Tomcat/Coyote JSP engine 1.1 [https://charlesreid1.com/wiki/Metasploitab
 Samba smbd 3.X 
 [https://www.exploit-db.com/exploits/37834](https://www.exploit-db.com/exploits/37834) 
 Samba подвержена неуказанной уязвимости удаленного выполнения кода. Злоумышленник может воспользоваться этой проблемой для выполнения произвольного кода с правами root.
-
+```
 ### Задание 2
