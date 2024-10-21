@@ -55,4 +55,27 @@ vodin@ubuntu-VBox:~$ sudo tail -f /var/log/suricata/fast.log
 
 ### Задание 2
 
+В логе fail2ban мы видим атаку со стороны хоста 192.168.56.101 по ssh, после нескольких подключение ip уходит в бан.
 
+```
+2024-10-21 13:20:01,544 fail2ban.server         [4717]: INFO    Starting Fail2ban v1.1.0
+2024-10-21 13:20:01,544 fail2ban.observer       [4717]: INFO    Observer start...
+2024-10-21 13:20:01,554 fail2ban.database       [4717]: INFO    Connected to fail2ban persistent database '/var/lib/fail2ban/fail2ban.sqlite3'
+2024-10-21 13:20:01,554 fail2ban.jail           [4717]: INFO    Creating new jail 'sshd'
+2024-10-21 13:20:01,662 fail2ban.jail           [4717]: INFO    Jail 'sshd' uses systemd {}
+2024-10-21 13:20:01,662 fail2ban.jail           [4717]: INFO    Initiated 'systemd' backend
+2024-10-21 13:20:01,663 fail2ban.filter         [4717]: INFO      maxLines: 1
+2024-10-21 13:20:01,683 fail2ban.filtersystemd  [4717]: INFO    [sshd] Added journal match for: '_SYSTEMD_UNIT=ssh.service + _COMM=sshd'
+2024-10-21 13:20:01,683 fail2ban.filter         [4717]: INFO      maxRetry: 5
+2024-10-21 13:20:01,683 fail2ban.filter         [4717]: INFO      findtime: 600
+2024-10-21 13:20:01,684 fail2ban.actions        [4717]: INFO      banTime: 600
+2024-10-21 13:20:01,684 fail2ban.filter         [4717]: INFO      encoding: UTF-8
+2024-10-21 13:20:01,685 fail2ban.jail           [4717]: INFO    Jail 'sshd' started
+2024-10-21 13:20:01,685 fail2ban.filtersystemd  [4717]: INFO    [sshd] Jail is in operation now (process new journal entries)
+2024-10-21 13:21:04,103 fail2ban.filter         [4717]: INFO    [sshd] Found 192.168.56.101 - 2024-10-21 13:21:03
+2024-10-21 13:21:04,105 fail2ban.filter         [4717]: INFO    [sshd] Found 192.168.56.101 - 2024-10-21 13:21:04
+2024-10-21 13:21:06,572 fail2ban.filter         [4717]: INFO    [sshd] Found 192.168.56.101 - 2024-10-21 13:21:06
+2024-10-21 13:21:10,322 fail2ban.filter         [4717]: INFO    [sshd] Found 192.168.56.101 - 2024-10-21 13:21:09
+2024-10-21 13:21:14,067 fail2ban.filter         [4717]: INFO    [sshd] Found 192.168.56.101 - 2024-10-21 13:21:13
+2024-10-21 13:21:14,309 fail2ban.actions        [4717]: NOTICE  [sshd] Ban 192.168.56.101
+```
